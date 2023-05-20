@@ -6,6 +6,13 @@
 
 ### Hi there 👋
 
+<!-- Add more details about me later-->
+---
+
+
+> My only goal is to gradient boost over myself of yesterday. And to repeat this everyday with an unconquerable spirit.
+
+— Unknown
 <!--
 **Rakeshsuku/Rakeshsuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
